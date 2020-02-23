@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Open Closed Projects plugin</title>
+    <link>http://marketplace.eclipse.org/content/open-closed-projects-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/openclosedprojects110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-02-22 16:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Sandip%20Chitale%22&quot;&gt;Sandip Chitale&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2013-03-10 14:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/schitale/listings&quot; title=&quot;Sandip Chitale&quot;&gt;Sandip Chitale&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plug-in allows you to open any closed projects. I keep my closed projects filtered out of Package Explorer View or Project Explorer. However just to open the closed projects I do not want to remove the filter. Hence this plug-in.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 10 Mar 2013 18:21:52 +0000</pubDate>
+ <dc:creator>schitale</dc:creator>
+ <guid isPermaLink="false">724341 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/open-closed-projects-plugin#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Communications Framework - ECF</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-communications-framework-ecf</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-02-22 15:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%22&quot;&gt;Eclipse&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2010-06-23 09:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/wjongman/listings&quot; title=&quot;Wim Jongman&quot;&gt;Wim Jongman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;ECF is a suite of frameworks for building networked applications. We provide a modular implementation of the OSGi R7 Remote Services standard. New and Noteworthy: &lt;a href=&quot;http://www.eclipse.org/ecf/NewAndNoteworthy.html&quot; rel=&quot;nofollow&quot;&gt;http://www.eclipse.org/ecf/NewAndNoteworthy.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See the ECF Wiki for tutorials and other documentation.&lt;/p&gt;
+&lt;p&gt;Main Home Page:  &lt;a href=&quot;http://www.eclipse.org/ecf&quot; rel=&quot;nofollow&quot;&gt;http://www.eclipse.org/ecf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ECF Wiki:  &lt;a href=&quot;http://wiki.eclipse.org/ECF&quot; rel=&quot;nofollow&quot;&gt;http://wiki.eclipse.org/ECF&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 23 Jun 2010 13:02:20 +0000</pubDate>
+ <dc:creator>wjongman</dc:creator>
+ <guid isPermaLink="false">1405 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-communications-framework-ecf#comments</comments>
+  </item>
+  <item>
+    <title>Protector4J</title>
+    <link>http://marketplace.eclipse.org/content/protector4j</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/android-chrome-512x512.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-02-21 20:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VLINX%20Software%22&quot;&gt;VLINX Software&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-27 05:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ylin0gf/listings&quot; title=&quot;Yongfa Lin&quot;&gt;Yongfa Lin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Protect Java Code from Decompilation by Encrypting the Java Classes, beyond Obfuscation.&lt;/p&gt;
+&lt;p&gt;Support JavaSE App, Tomcat Web App, Spring Boot App, GlassFish App, Payara App and Java 8, Java 11 Environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guide of installation of eclipse plugin: &lt;a href=&quot;https://doc.protector4j.com/eclipse-plugin&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/eclipse-plugin&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;After installed, please click Window -&amp;gt; Show View-&amp;gt;Other..., then find the Protector4J View in the dialog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Documention: &lt;a href=&quot;https://doc.protector4j.com/get-started&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/get-started&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Site: &lt;a href=&quot;https://protector4j.com&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Jun 2017 09:41:40 +0000</pubDate>
+ <dc:creator>ylin0gf</dc:creator>
+ <guid isPermaLink="false">3513853 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/protector4j#comments</comments>
+  </item>
+  <item>
+    <title>Emacs+ </title>
+    <link>http://marketplace.eclipse.org/content/emacs</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/BlueLogo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-02-21 11:19&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Mark%20Feber%22&quot;&gt;Mark Feber&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2009-03-09 17:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mfeber/listings&quot; title=&quot;Mark Feber&quot;&gt;Mark Feber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Emacs+ - Eclipse Extensions for Emacs Expatriates - provides an enhanced Emacs-like experience in the Eclipse text editors. Includes:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Keyboard Macros (including name, bind, save, load and auto-loading&lt;/li&gt;
+&lt;li&gt;M-x command execution&lt;/li&gt;
+&lt;li&gt;C-u universal-argument&lt;/li&gt;
+&lt;li&gt;Repeat command&lt;/li&gt;
+&lt;li&gt;C-x b, C-x 4 b, C-x 5 b with completion, search and buffer list&lt;/li&gt;
+&lt;li&gt;Emacs style point/mark selection with both global and buffer-local mark rings&lt;/li&gt;
+&lt;li&gt;Emacs style search and query/replace with regular expressions&lt;/li&gt;
+&lt;li&gt;A kill ring for deleted text&lt;/li&gt;
+&lt;li&gt;Digit argument support M-1, M-2 ... C-M-1, C-M-2 ..., etc.&lt;/li&gt;
+&lt;li&gt;Balanced expression (s-expression) commands&lt;/li&gt;
+&lt;li&gt;Split editor windows (C-x 2, C-x 3, C-x {, C-x }, C-x 4 .)&lt;/li&gt;
+&lt;li&gt;Frame handling (C-x 5 2, C-x 5 1, C-x 5 0, C-x 5 o)&lt;/li&gt;
+&lt;li&gt;Rectangle Commands&lt;/li&gt;
+&lt;li&gt;Register Commands&lt;/li&gt;
+&lt;li&gt;Tags-like searching&lt;/li&gt;
+&lt;li&gt;Transposition of characters, words, lines, paragraphs and s-expressions&lt;/li&gt;
+&lt;li&gt;Line and character commands&lt;/li&gt;
+&lt;li&gt;Space and blank line handling&lt;/li&gt;
+&lt;li&gt;Case conversion commands&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;An optional feature provides additional bindings for:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Gnu-style help commands&lt;/li&gt;
+&lt;li&gt;Gnu-style shift selection&lt;/li&gt;
+&lt;li&gt;Gnu-style GUD bindings&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MulgaSoft/e4macs/issues?labels=enhancement&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Feature requests&lt;/a&gt; and &lt;a href=&quot;https://github.com/MulgaSoft/e4macs/issues?labels=bug&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;defect reports&lt;/a&gt; made in the Reviews section are unlikely to be noticed. Submit them &lt;a href=&quot;https://github.com/MulgaSoft/e4macs/issues&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;. A forum for discussion can be found at &lt;a href=&quot;http://groups.google.com/group/emacsplus/topics&quot; rel=&quot;nofollow&quot;&gt;Emacs+ discussion&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 09 Mar 2009 21:08:06 +0000</pubDate>
+ <dc:creator>mfeber</dc:creator>
+ <guid isPermaLink="false">886 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/emacs#comments</comments>
+  </item>
+  <item>
+    <title>Veracode Greenlight</title>
+    <link>http://marketplace.eclipse.org/content/veracode-greenlight</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/01_Eclipse_Transparent_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-02-21 10:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Veracode%22&quot;&gt;Veracode&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-10 14:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jbaker4rv/listings&quot; title=&quot;Jeremy Baker&quot;&gt;Jeremy Baker&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Veracode Greenlight finds security defects in your code and provides contextual remediation advice to help you fix issues in seconds, right in your Eclipse IDE. With Veracode Greenlight, find issues early, reduce development and remediation costs, and deploy quality code on your timeline.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Not a customer? Try Veracode for free!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://info.veracode.com/veracode-greenlight-self-service-free-trial.html&quot; rel=&quot;nofollow&quot;&gt;Register&lt;/a&gt; for a free trial of Veracode Greenlight. For information on getting started, visit our &lt;a href=&quot;https://help.veracode.com/reader/JVdG5ruGOiJnRpaJmQVCSQ/qkF59zimmFZwAw31QcK8xw&quot; rel=&quot;nofollow&quot;&gt;Help Center&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Using the Veracode Greenlight Eclipse Plugin&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Visit our &lt;a href=&quot;https://help.veracode.com/reader/JVdG5ruGOiJnRpaJmQVCSQ/yRM0PbHufBD_Uvl81gUDxA&quot; rel=&quot;nofollow&quot;&gt;Help Center&lt;/a&gt; for installation and usage instructions. If you have any questions or need assistance at any time, please contact your Veracode Program Manager or &lt;a href=&quot;mailto:support@veracode.com&quot; rel=&quot;nofollow&quot;&gt;support@veracode.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Apr 2017 18:32:57 +0000</pubDate>
+ <dc:creator>jbaker4rv</dc:creator>
+ <guid isPermaLink="false">3388415 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/veracode-greenlight#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse OCL</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-ocl</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/image.png&quot; width=&quot;110&quot; height=&quot;48&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-02-21 06:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22eclipse.org%22&quot;&gt;eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2013-03-04 13:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/asanchez/listings&quot; title=&quot;Adolfo Sanchez-Barbudo Herrera&quot;&gt;Adolfo Sanchez-Barbudo Herrera&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Eclipse OCL is an implementation of the Object Constraint Language (OCL) OMG standard for EMF-based models. Eclipse OCL provides both:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;An implementation of the &lt;a href=&quot;http://www.omg.org/spec/OCL/2.4/&quot; rel=&quot;nofollow&quot;&gt;OCL 2.4&lt;/a&gt; standard specification (ISO/IEC 19507).&lt;/li&gt;
+&lt;li&gt;A prototypical implementation of the future OCL 2.5 specification.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Members of OMG &lt;a href=&quot;http://www.omg.org/issues/ocl2-rtf.open.html&quot; rel=&quot;nofollow&quot;&gt;OCL RTF&lt;/a&gt;(Revision Task Force) are actively involved with the Eclipse OCL project. The core OCL component provides the following capabilities to support OCL integration:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Defines APIs for parsing and evaluating OCL constraints and queries on Ecore or UML models.&lt;/li&gt;
+&lt;li&gt;Defines Ecore and UML implementations of the OCL abstract syntax model, including support for serialization of parsed OCL expressions.&lt;/li&gt;
+&lt;li&gt;Provides a Visitor API for analyzing/transforming the AST model of OCL expressions.&lt;/li&gt;
+&lt;li&gt;Provides an extensibility API for clients to customize the parsing and evaluation environments used by the parser.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The accompanying examples provide:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A Console for interactive evaluation of OCL expression on models.&lt;/li&gt;
+&lt;li&gt;An Impact Analyzer to support analysis and optimised re-evaluation.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The additional OCL Examples and Editors component provides interactive support for OCL:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;An Xtext editor for OCL in Ecore (to define constraints in your Ecore models).&lt;/li&gt;
+&lt;li&gt;An Xtext editor for OCL expressions (used by Papyrus and the Console).&lt;/li&gt;
+&lt;li&gt;An Xtext editor for OCL documents complementing meta-models (Complete OCL).&lt;/li&gt;
+&lt;li&gt;An Xtext editor for the OCL &#039;Standard&#039; Library model.&lt;/li&gt;
+&lt;li&gt;A UML-aligned OCL meta-model supporting templates and reflection.&lt;/li&gt;
+&lt;li&gt;An OCL evaluator exploiting the extensible OCL library model.&lt;/li&gt;
+&lt;li&gt;An Xtext Console for interactive evaluation of OCL expression on models.&lt;/li&gt;
+&lt;li&gt;(Luna) Direct OCL to Java code generation (preliminary)&lt;/li&gt;
+&lt;li&gt;(Luna) A Validity View for detailed Constraint/ModelElement validity visualization&lt;/li&gt;
+&lt;li&gt;(Luna) An OCL debugger&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 04 Mar 2013 18:24:54 +0000</pubDate>
+ <dc:creator>asanchez</dc:creator>
+ <guid isPermaLink="false">710668 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-ocl#comments</comments>
+  </item>
+  <item>
+    <title>Codewind </title>
+    <link>http://marketplace.eclipse.org/content/codewind</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codewind_blue_2000px.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-02-20 18:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-05-16 13:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jkim/listings&quot; title=&quot;Joseph Kim&quot;&gt;Joseph Kim&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Codewind for Eclipse&lt;/h2&gt;
+&lt;p&gt;Codewind for Eclipse provides tools to help build cloud-native, containerized applications from Eclipse, regardless of which runtime or language you use. Rapidly create an application from a template project and launch, update, test, and debug in Docker containers on the desktop.&lt;/p&gt;
+&lt;p&gt;For more information, see &lt;a href=&quot;https://www.eclipse.org/codewind/&quot; rel=&quot;nofollow&quot;&gt;https://www.eclipse.org/codewind/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why use Codewind?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Get started with templates or samples that you can use to quickly create and deploy applications that run in containers.&lt;/li&gt;
+&lt;li&gt;Create containerized applications in languages that you&#039;re already familiar with. Codewind supports popular runtimes.&lt;/li&gt;
+&lt;li&gt;Pull in your existing applications and use Codewind to help get them cloud ready.&lt;/li&gt;
+&lt;li&gt;See code changes reflected in your containerized application almost instantaneously. The Codewind advanced inner loop manages your application updates efficiently.&lt;/li&gt;
+&lt;li&gt;Develop in containers without feeling like you&#039;re developing in containers. Development flow within the IDE feels the same as traditional application development.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Create new containerized projects or add existing ones.&lt;/li&gt;
+&lt;li&gt;View your containerized projects, including the application and build status.&lt;/li&gt;
+&lt;li&gt;Debug Microprofile/Java EE, Node.js, and Spring applications.&lt;/li&gt;
+&lt;li&gt;Access application, build, and container logs in the Output view.&lt;/li&gt;
+&lt;li&gt;See validation errors in the Problems view.&lt;/li&gt;
+&lt;li&gt;Open a shell session into an application container.&lt;/li&gt;
+&lt;li&gt;Toggle the project auto build setting and manually initiate project builds.&lt;/li&gt;
+&lt;li&gt;Open your application or the application monitor in a browser.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Getting started with Codewind&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For more information, see &lt;a href=&quot;https://www.eclipse.org/codewind/mdteclipsegettingstarted.html&quot; rel=&quot;nofollow&quot;&gt;https://www.eclipse.org/codewind/mdteclipsegettingstarted.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contributing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Submit issues and contributions:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Submitting issues: &lt;a href=&quot;https://github.com/eclipse/codewind/issues&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/codewind/issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contributing: &lt;a href=&quot;https://github.com/eclipse/codewind-eclipse/blob/master/CONTRIBUTING.md&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/codewind-eclipse/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Developing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To develop and debug Codewind for Eclipse, see &lt;a href=&quot;https://github.com/eclipse/codewind-eclipse/blob/master/README.md#developing-codewind-for-eclipse&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/codewind-eclipse/blob/master/README.md#develo...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 May 2019 17:09:11 +0000</pubDate>
+ <dc:creator>jkim</dc:creator>
+ <guid isPermaLink="false">4638524 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/codewind#comments</comments>
+  </item>
+  <item>
+    <title>Wild Web Developer: HTML, CSS, JavaScript, TypeScript,  Node.js, Angular, JSON, YAML (+Kubernetes), XML</title>
+    <link>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wild-web-developer-marketplace-logo.png&quot; width=&quot;110&quot; height=&quot;78&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-02-20 17:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Wild%20Web%20Developers%20Contributors%22&quot;&gt;Eclipse Wild Web Developers Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-13 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mistria/listings&quot; title=&quot;Mickael Istria&quot;&gt;Mickael Istria&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Edit HTML, CSS, JavaScript, TypeScript (+ESLint), JSON (+schema), XML (+schema), YAML (+schema)&lt;/strong&gt;, with specialized support for &lt;strong&gt;Angular, React and Kubernetes&lt;/strong&gt;, and &lt;strong&gt;debug Node.js and HTML+JS web-apps &lt;/strong&gt;simply and efficiently in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;To see it in action, open the desired file with the &lt;em&gt;Generic Editor&lt;/em&gt; that&#039;s included by default in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;Supported file formats for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CSS, SCSS, SASS, LESS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JavaScript (EcmaScript 2018 - 9th edition)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;TypeScript 3.3&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JSON&lt;/em&gt; and &lt;em&gt;JSONC&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;YAML&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;XML&lt;/em&gt; (including schema support),&lt;em&gt; XSL, XSD, DTD&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported frameworks (file specialization) and linters for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Angular&lt;/em&gt; (template assistance in HTML and TS files)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kubernetes&lt;/em&gt; (schema built-in when editing YAML)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;React&lt;/em&gt; (JSX, TSX, embedded HTML)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;ESLint&lt;/em&gt; (including Typescript-ESLint)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported features for edition are&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Validation (diagnostics, markers)&lt;/li&gt;
+&lt;li&gt;Code Completion&lt;/li&gt;
+&lt;li&gt;Hover&lt;/li&gt;
+&lt;li&gt;Outline&lt;/li&gt;
+&lt;li&gt;Rename refactoring&lt;/li&gt;
+&lt;li&gt;Jump to declaration&lt;/li&gt;
+&lt;li&gt;Find references&lt;/li&gt;
+&lt;li&gt;Color preview&lt;/li&gt;
+&lt;li&gt;... and other features part of the Language Server Protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported debugging target&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Node.js&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Firefox&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Chromium&lt;/em&gt; and &lt;em&gt;Chrome&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 13 Apr 2017 14:52:25 +0000</pubDate>
+ <dc:creator>mistria</dc:creator>
+ <guid isPermaLink="false">3394048 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml#comments</comments>
+  </item>
+  <item>
+    <title>XRebel for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/xrebel-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/XRebel_EclipseMarketplace_v1_110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-02-20 11:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Perforce%20Software%22&quot;&gt;Perforce Software&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-04-26 08:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mrasmussenton/listings&quot; title=&quot;Michael Rasmussen&quot;&gt;Michael Rasmussen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;XRebel is a developer tool that improves the development and debugging process. It gives you real time insight into your application, such as IO query executions, method timings and logs. This helps you find and fix common performance pitfalls during development, rather than after committing your code.&lt;/p&gt;
+&lt;p&gt;XRebel works with any IDE, browser, most app servers, databases, frameworks, even message queues. See the full list here: &lt;a href=&quot;https://manuals.jrebel.com/xrebel/support/index.html#&quot; rel=&quot;nofollow&quot;&gt;https://manuals.jrebel.com/xrebel/support/index.html&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 26 Apr 2016 12:10:25 +0000</pubDate>
+ <dc:creator>mrasmussenton</dc:creator>
+ <guid isPermaLink="false">2854925 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/xrebel-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>jSparrow - Automatic Java Refactoring</title>
+    <link>http://marketplace.eclipse.org/content/jsparrow-automatic-java-refactoring</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/jSparrow_Fluegel_110x80.jpg&quot; width=&quot;110&quot; height=&quot;77&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-02-20 06:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Splendit%20IT-Consulting%20GmbH%22&quot;&gt;Splendit IT-Consulting GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-20 11:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mprehofer/listings&quot; title=&quot;Michaela Prehofer&quot;&gt;Michaela Prehofer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;FOR INSTALLING JSPARROW USE THE EXTERNAL INSTALL BUTTON!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jSparrow &lt;/strong&gt;detects and automatically replaces bugs and code smells in Java sources with a rule-based approach. jSparrow &lt;strong&gt;improves &lt;/strong&gt;your Java source code and transforms it to Java 8/9/10 user-guided and safe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Refactor your Java code. Improve code quality. Apply the latest Java features. All automatically.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+jSparrow has now a set of&lt;strong&gt; 70 rules&lt;/strong&gt;, grouped into seven categories, which are designed for applying coding conventions, removing code smells, standardize logging, improving readability and modernizing your Java codebase. Thus saving maintenance time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Removal &lt;/strong&gt;of potential &lt;strong&gt;bugs and code smells&lt;/strong&gt; is one of the main purposes of jSparrow. jSparrow is very efficient in disposing of these kind of threats with its rules. You can group the profiles into individual &lt;strong&gt;rule profiles&lt;/strong&gt;, which also can be &lt;strong&gt;exported &lt;/strong&gt;and &lt;strong&gt;imported &lt;/strong&gt;to share them within your development team.&lt;/p&gt;
+&lt;p&gt;Staying up to date with the latest Java standards is normally requiring days of manual software maintenance work. &lt;strong&gt;jSparrow upgrades &lt;/strong&gt;old code-artifacts to new state-of-the-art programming practices. The usage of jSparrow´s &lt;strong&gt;full version&lt;/strong&gt; allows you to save a lot of valuable time while offering the option of &lt;strong&gt;automatically upgrading&lt;/strong&gt; to the latest version of Java within minutes in a safe way.&lt;/p&gt;
+&lt;p&gt;You can then decide if you want to use the jSparrow Free version, as usual, or the new features of jSparrow Starter for automatic refactoring. With jSparrow Starter you will be able to apply 15 rules free of charge. After a short registration, you will get a license key, allowing you to apply the rules on your projects.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Don´t lose time with tedious and repetitive work - let jSparrow do it!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Documentation: &lt;a href=&quot;https://jsparrow.github.io/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.github.io/&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Rule description: &lt;a href=&quot;https://jsparrow.github.io/rules/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.github.io/rules/&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Compare our versions: &lt;a href=&quot;https://jsparrow.eu/get-jsparrow/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.eu/get-jsparrow/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LATEST VERSION:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;jSparrow Release 3.14.0&lt;/p&gt;
+&lt;p&gt;jSparrow Maven PlugIn 2.11.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OUR RELEASE POLICY IS AS FOLLOWS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monthly releases&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Every 3rd Thursday we will release at least one new rule.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weekly Bugfix &lt;/strong&gt;releases&lt;/p&gt;
+&lt;p&gt;Bugfixes will be released each Thursday&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotfix Releases &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hotfix Releases can be deployed any time (hopefully not necessary)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next Release: &lt;/strong&gt;Thursday 2020-03-19&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 20 Jun 2017 15:34:11 +0000</pubDate>
+ <dc:creator>mprehofer</dc:creator>
+ <guid isPermaLink="false">3503691 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jsparrow-automatic-java-refactoring#comments</comments>
+  </item>
+  </channel>
+</rss>
